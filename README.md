@@ -1,3 +1,3 @@
 # Union plugin localization
-WiP
+A set of translation files for various Union plugins.
 
